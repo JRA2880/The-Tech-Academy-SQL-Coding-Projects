@@ -203,8 +203,9 @@ VALUES
 (49,1,2),
 (50,1,2)
 ;
-/* End of data entry into book copies for SharpsTown Library Branch */
+/* End of data entry into book copies for Central Library Branch */
 
+/*Data entry into BOOK_COPIES for SharpsTown Library Branch */
 INSERT INTO BOOK_COPIES 
 (BookID, BranchID,Number_of_Copies)
 VALUES
